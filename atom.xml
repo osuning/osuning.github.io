@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://osuning.github.io</id>
+    <title>osuni</title>
+    <updated>2023-09-06T04:53:28.295Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://osuning.github.io"/>
+    <link rel="self" href="https://osuning.github.io/atom.xml"/>
+    <logo>https://osuning.github.io/images/avatar.png</logo>
+    <icon>https://osuning.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, osuni</rights>
+    <entry>
+        <title type="html"><![CDATA[Hello World]]></title>
+        <id>https://osuning.github.io/post/hello-world/</id>
+        <link href="https://osuning.github.io/post/hello-world/">
+        </link>
+        <updated>2023-07-15T14:50:21.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="你好-世界">你好 世界</h2>
+<figure data-type="image" tabindex="1"><img src="https://osuning.github.io/post-images/1690855008483.png" alt="" loading="lazy"></figure>
+<p>随便记录，将就一下，有时间再整</p>
+]]></content>
+    </entry>
+</feed>
